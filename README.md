@@ -1,78 +1,55 @@
-### Hi there 👋 I am a software engineer specializing in multiple programming technologies including JavaScript, React/Redux, Node/Express, MongoDB and Flexbox.
-I am familiar with C#, C++, Java, .Net packages, and SQL. I have practice in game/logic engines, data modeling and web development requiring abstract problem solving, extreme detail orientation, and a strong foundation in software engineering principles on a variety of platforms.
+# Mark Willisford | Senior AI Engineer
 
-I recently finished with Thinkful after completing an associates degree in computer science from Bellevue College with a 4.0 GPA.
+I build production LLM systems, the kind that ship to real users, run in regulated environments, and solve problems that don't have Stack Overflow answers yet.
 
-My background with Northwest Industry Leaders in restaurants gives me a unique ability to connect and communicate with the customer and provide high quality solutions on the spot.
-In addition to my recent experience at Thinkful, my CS degree and a successful 20 year career in some of the top restaurants in Seattle, I am constantly seeking out new technologies or libraries to use to build my own tools and projects.
+Most recently I spent five years at Tyler Technologies, where I moved from frontend engineering into AI work after winning a company-wide Hackweek competition with an AI-powered data visualization prototype. That prototype became a real product. I then co-founded the internal AI engineering team that built the tooling and frameworks used across the entire company.
 
-When I'm not coding, I can usually be found hiking in the woods around the Puget Sound, on my laptop preparing a D&D session and leading my players through some fantastic dungeon, or exploring the Pacific Northwest with my wife Angela. I am obsessed with lifelong learning and my current learning projects (that do not revolve around import, JWTs and APIs) include 3d-printing and finishing my first fantasy novel “The Breaking.”
+---
 
-<!--
-**MarkWillisford/MarkWillisford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
 
-Here are some ideas to get you started:
+**AI / ML**
+AWS Bedrock · Azure AI · Claude (Sonnet/Opus) · GPT-4 · Gemini · RAG · pgvector · MCP protocol · MCP server development · prompt engineering · multi-model orchestration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+React · Redux · JavaScript · TypeScript · HTML5 · CSS3
 
+**Backend**
+Node.js · Express.js · Python · Bash · Java · Scala
 
-### My Resume:
-mark.willisford.devwork@gmail.com // (425) 202-5821 
-markwillisford.github.io/Portfolio/  
-linkedin.com/in/markwillisford/
-github.com/MarkWillisford/
+**DevOps / Infra**
+AWS (Bedrock, ECR, ECS, S3, CloudWatch, and broader) · Docker · CI/CD pipelines · aws-vault · Claude Code
 
-### SUMMARY   
-Software engineer with proven leadership skills and a passion for excellence. This drive led to a series of promotions over a very successful 20-year career in the service industry, overseeing hundreds of servers, 30+ high end guest accounts generating $5M+ revenue in Seattle’s top restaurant destinations. After rediscovering a passion as a software developer in 2016, I’ve fully dedicated myself to learn and grow my coding abilities through both formal and self-imposed education, proving myself and my abilities through numerous projects incorporating fundamentally sound, efficient and creative solutions to application development.
+**Databases**
+PostgreSQL · SOQL · pgvector
 
-### SKILLS
-Languages: HTML, JS, CSS
-Frameworks: Node.js, Express.JS, MERN
-Libraries: React, Redux, jQuery
-Databases: MongoDB
-Testing: Mocha, Chai, Enzyme, Jest
+**Compliance**
+FedRAMP · CJIS
 
-### In a developer role at your company I will…
-Code within company coding standards and styles.
-Write fully automated tests in adherence to best practices.
-Build responsive frontend designs to spec per the UX design.
-Diligently prioritize multiple projects to ensure timely results.
-Be coachable and accepting of constructive criticism.
+---
 
-### EDUCATION
-Thinkful Coding Bootcamp								Seattle, WA 06/18-12/19
-Learned industry best practices and practical software development standards with a focus on HTML5, CSS3, JavaScript, jQuery, Node.JS, React, Redux, and algorithms and data structures.
-Bellevue College Associate of Science - Information Systems (4.0 GPA)			Bellevue, WA 2016-2017
+## What I have shipped
 
-### PROJECTS
-TTRPG, Char Gen (https://github.com/MarkWillisford/Pathfinder-Beyond-Client)		Seattle, WA 11/18-Present
-TableTop RolePlaying Game, Character Generator is an app that allows you to design, create and save characters using Paizo’s Pathfinder game system under the OGL. It is a Full stack app utilizing a React / Redux front end with Node.js, Express and MongoDB.
-Developed the application utilizing React while managing the State through Redux and Redux-Forms allowing for real time comparisons of choices saving hours of users time.
-Constructed API following RESTful standards, deploying the tool in a CICD pipeline through Travis and Heroku.
-Addressed authentication and security concerns with Passport.JS, JWT tokens, and the Bcrypt library.
-Created a full testing suite with Enzyme, Chai, and Mocha with 50+ consecutive passing tests.
-Designed an integrated database using MongoDB that leveraged the React architecture to yield on-demand, detailed feedback in an intuitive, responsive and thematic user experience.
+**Data Assistant**
+A customer-facing AI platform deployed on public government websites that automated data visualization and natural language querying across Tyler's reporting services. Users could ask questions against live datasets and receive contextually appropriate chart suggestions, replacing a fully manual workflow. Built on Azure AI Studio with RAG architecture and pgvector, integrating GPT-4.
 
-Tip Tracker (https://github.com/MarkWillisford/Capstone-II-FullStack)   			Seattle, WA 8/18-Present
-Serving is hard work, tracking your income shouldn't be. Tip Tracker is an app that allows you to access a secure profile, then conserve and utilize income and sales data in a variety of helpful ways, such as sales vs goals by category, adjusted hourly income, even tip-outs. 
-Simplified reporting to deliver actionable information to servers, allowing them to take corrective action on over-leveraged budgets, resulting in multiple servers achieving lasting financial stability.
-Developed responsive web application using HTML5, CSS3, JS, Node.js, Express, MongoDB, Passport, and JWT
+**AI Foundry Framework**
+A company-wide internal platform enabling engineering teams across Tyler Technologies to design, build, publish and connect MCP servers, AI agents, custom tools, and multi-step workflows. Adopted enterprise-wide. I was responsible for FedRAMP deployment and CJIS compliance, implementing security audit findings and authoring deployment playbooks for regulated environments.
 
-### EXPERIENCE
-Mox Boarding House - Training Lead / Senior Server		         			Seattle, WA 2017 - Present
-As a driven lead server over the last two years, I trained an entire staff of high quality servers, leading that staff to explosive growth in sales, guest appreciations and profitability in an extremely fast paced environment, by diligently improving my sales techniques, communication skills, mentoring servers, and providing consistent guest service. 
-Designed and built a mobile app for my servers to assist in tracking sales, income and other data using HTML5, CSS3, JavaScript, JQuery, Express, Node.js, Mongoose and MongoDB.
-Mentored 15+ servers in high end serving techniques, life skills (e.g. budgeting, tax prep, etc.), and growing their careers. Oversaw my trainees’ collectively achieve 7 server promotions and 1 management promotion over 2 years.
-Designed and built training programs for front-line employees through iterative collaboration with leadership resulting in all-time high performance metrics (e.g. Customer satisfaction, sales), and $1M+ revenue growth over 12 months.
+**MCP Code Review Pipeline**
+A multi-model code review tool built within one week of the MCP protocol's public release, one of the first production MCP implementations anywhere. Routes git diffs through Claude, GPT, and Gemini in parallel, then aggregates, deduplicates, and prioritizes findings and suggested fixes.
 
-### CERTIFICATIONS
-Microsoft Technology Associate: ● Windows Operating Systems Fundamentals , ● HTML5 Application Development Fundamentals - ● Software Development Fundamentals ● Database Fundamentals
+---
 
+## A little more context
+
+I came to software engineering as a second career after 20 years in hospitality management. I went back to school, completed a bootcamp, taught myself to code, and within three years was winning hackathons and shipping AI systems to production. I'm comfortable solving problems without documentation because I have spent most of my career doing exactly that.
+
+Outside of work I lead at my church, DM long-running Pathfinder campaigns, and collect LEGO.
+
+---
+
+## Get in touch
+
+[linkedin.com/in/markwillisford](https://www.linkedin.com/in/markwillisford)
+mark.willisford.devwork@gmail.com
