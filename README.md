@@ -37,7 +37,7 @@ A customer-facing AI platform deployed on public government websites that automa
 A company-wide internal platform enabling engineering teams across Tyler Technologies to design, build, publish and connect MCP servers, AI agents, custom tools, and multi-step workflows. Adopted enterprise-wide. I was responsible for FedRAMP deployment and CJIS compliance, implementing security audit findings and authoring deployment playbooks for regulated environments.
 
 **MCP Code Review Pipeline**
-A multi-model code review tool built within one week of the MCP protocol's public release, one of the first production MCP implementations anywhere. Routes git diffs through Claude, GPT, and Gemini in parallel, then aggregates, deduplicates, and prioritizes findings and suggested fixes.
+A multi-model code review tool built within a week of Claude Code's public launch in May 2025. Routes git diffs through Claude, GPT, and Gemini in parallel, then aggregates, deduplicates, and prioritizes findings and suggested fixes. Engineers were using it the same week it shipped.
 
 ---
 
